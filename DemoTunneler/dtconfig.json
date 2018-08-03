@@ -1,0 +1,5 @@
+{
+	"port": "9101",
+	"customsub": "noOneElseWouldUseThis0314",
+	"entryPoint": "./example.app.js"
+}

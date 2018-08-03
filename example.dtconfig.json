@@ -1,0 +1,5 @@
+{
+	"port": "7331",
+	"customsub": "customSubdomainToDrillThrough",
+	"entryPoint": "./example.app.js"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "demotunneler",
+  "version": "1.0.0",
+  "description": "Expose your localhost as a custom domain anywhere to any device/network.",
+  "main": "dt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://big_wave_dave@bitbucket.org/big_wave_dave/demotunneler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/big_wave_dave/demotunneler#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "localtunnel": "^1.9.0",
+    "pm2": "^2.10.2",
+    "q": "^1.5.1"
+  }
+}
